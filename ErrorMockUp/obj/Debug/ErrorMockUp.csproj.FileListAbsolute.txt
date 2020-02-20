@@ -1,0 +1,6 @@
+c:\users\ian\documents\visual studio 2015\Projects\ErrorMockUp\ErrorMockUp\bin\Debug\ErrorMockUp.exe.config
+c:\users\ian\documents\visual studio 2015\Projects\ErrorMockUp\ErrorMockUp\bin\Debug\ErrorMockUp.exe
+c:\users\ian\documents\visual studio 2015\Projects\ErrorMockUp\ErrorMockUp\bin\Debug\ErrorMockUp.pdb
+c:\users\ian\documents\visual studio 2015\Projects\ErrorMockUp\ErrorMockUp\obj\Debug\ErrorMockUp.csprojResolveAssemblyReference.cache
+c:\users\ian\documents\visual studio 2015\Projects\ErrorMockUp\ErrorMockUp\obj\Debug\ErrorMockUp.exe
+c:\users\ian\documents\visual studio 2015\Projects\ErrorMockUp\ErrorMockUp\obj\Debug\ErrorMockUp.pdb
